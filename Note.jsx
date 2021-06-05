@@ -1,0 +1,15 @@
+import React from "react";
+
+function Note() {
+  
+  return (
+    <div className="note">
+      <h1>Javascript and React.js</h1>
+    <p>This was an interesting and beneficial Bootcamp taken by Shaurya Sinha.
+      I learned many things.He thought us from scartch</p>
+    </div>
+    
+  );
+}
+
+export default Note;
